@@ -1,0 +1,12 @@
+Developer effeciency - subjective, need to measure the feature ROI rather quantity of implementation
+
+Code Review - Quantity is accomplished, quality code review is challenge.
+
+Regression defects - currently 101 per year
+
+Commit to Delivery - Feature prioritization and Estimation effeciency.
+
+Code coverage - line + methohd coverage needs to be 60%
+
+ 
+
